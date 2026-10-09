@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 HR Intelligence Analysis — Power BI
 
 An interactive **HR Intelligence Dashboard** developed using Microsoft Power BI to analyze employee attrition, performance, salary patterns, demographics, and workforce trends.
@@ -88,3 +89,7 @@ Karishma Rathod
 BSC IT Graduate | Data Engineering | Data Analytics
 
 **Skills:** Power BI • DAX • SQL • Python • Excel 
+=======
+# HR-Analytics-Employee-Attrition-and-Performance
+Power BI HR Intelligence &amp; Employee Attrition Analysis Dashboard — analyzed employee data to identify key attrition patterns and contributing factors using Power Query, data cleaning, transformation, DAX, and interactive visualizations.
+>>>>>>> 80ce5cbeec9bd60411ea6228dcec7556d161547f
